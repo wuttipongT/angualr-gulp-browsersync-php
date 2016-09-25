@@ -1,0 +1,12 @@
+{
+  "name": "angualr-gulp-browsersync-php",
+  "version": "1.0.0",
+  "author": "WuttipongT<bed.wuttipong@gmail.com>",
+  "description": "angualr-gulp-browsersync-php using Gulp, Gulp Connect PHP, and livereload while also utilizing best practices.",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-connect-php": "0.0.8",
+    "gulp-livereload": "^3.8.1"
+  }
+}
